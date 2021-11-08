@@ -32,6 +32,8 @@
 		<li>MIx with your hand for 2 or 3 minutes</li>
 		<li>Note: mixie will make daal heat, for mix chilled water, one speed, take break, mix with hand later</li>
 		<li>Wet grinder: add water first to wet rock, use spoon to control flow , will get consistancy, fluffy</li>
+		<li>Note: cloth - make soft idli, no need for oil</li>
+		<li>Steam cook 15minutes</li>
 
 	</ul>
 
