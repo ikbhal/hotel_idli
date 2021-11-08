@@ -26,6 +26,7 @@
 		<li>Wash Idli rice ravva </li>
 		<li>soak Idli rice ravva for 4 to 6 hours</li>
 		<li>Flattened rice for 1 hour</li>
+		<li>Poha / Flattened Rice - 1 cup</li>
 		<li>Grind daal </li>
 		<li>Add flattend rice while grinding- remove water while adding</li>
 		<li>add idli rice ravva - remove water, press if neeeded -note: no grinding neede</li>
@@ -34,9 +35,13 @@
 		<li>Wet grinder: add water first to wet rock, use spoon to control flow , will get consistancy, fluffy</li>
 		<li>Note: cloth - make soft idli, no need for oil</li>
 		<li>Steam cook 15minutes</li>
-
 	</ul>
 
+	<h3>How to make Idli Ravva at home</h3>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/YewvXaj1G7c"
+	 	title="YouTube video player" frameborder="0" 
+	 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	  	allowfullscreen></iframe>
 </main>
 
 <style>
